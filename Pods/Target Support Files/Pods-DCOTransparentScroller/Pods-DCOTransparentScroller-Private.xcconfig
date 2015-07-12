@@ -1,0 +1,5 @@
+#include "Pods-DCOTransparentScroller.xcconfig"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Build" "${PODS_ROOT}/Headers/Build/DCOTransparentScroller" "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/DCOAboutWindow" "${PODS_ROOT}/Headers/Public/DCOTransparentScroller" "${PODS_ROOT}/Headers/Public/Sparkle"
+OTHER_LDFLAGS = -ObjC
+PODS_ROOT = ${SRCROOT}

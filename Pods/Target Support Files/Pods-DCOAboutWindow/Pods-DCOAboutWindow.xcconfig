@@ -1,0 +1,1 @@
+PODS_DCOABOUTWINDOW_OTHER_LDFLAGS = -framework "QuartzCore"

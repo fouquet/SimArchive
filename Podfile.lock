@@ -1,0 +1,16 @@
+PODS:
+  - DCOAboutWindow (0.2.0):
+    - DCOTransparentScroller
+  - DCOTransparentScroller (0.0.1)
+  - Sparkle (1.9.0)
+
+DEPENDENCIES:
+  - DCOAboutWindow
+  - Sparkle
+
+SPEC CHECKSUMS:
+  DCOAboutWindow: 47430680190584c3baf52d33441712814fd5b955
+  DCOTransparentScroller: bafe06de9a46d03a4fb6ea6690bf547030d42135
+  Sparkle: be4244aef7860f8d2abdc9c4e4d8e9629d27feb6
+
+COCOAPODS: 0.35.0
